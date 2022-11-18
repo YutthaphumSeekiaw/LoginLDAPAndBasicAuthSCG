@@ -12,5 +12,6 @@ namespace TestLdap
 
         public string Summary { get; set; }
         public string TestRebase { get; set; }
+        public string TestReset { get; set; }
     }
 }
