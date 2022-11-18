@@ -12,5 +12,7 @@ namespace TestLdap
 
         public string Summary { get; set; }
         public string TestRebase { get; set; }
+
+        public decimal dsd { get; set; }
     }
 }
